@@ -1,0 +1,14 @@
+.tools-header{
+    padding : 25px;
+}
+
+.tools-header select{
+    height: 25px;
+    width: 500px;
+}
+
+.tools-footer{
+    padding: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
